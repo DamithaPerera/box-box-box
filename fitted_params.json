@@ -1,12 +1,10 @@
 {
-  "softOffset": -4,
-  "mediumOffset": -1.508680445541398,
-  "hardOffset": 0.0012256921889161267,
-  "softDeg": 0.5,
-  "mediumDeg": 0.3,
-  "hardDeg": 0.12658390340615475,
-  "tempCoeff": 0.0008942322369493963,
-  "softCliff": 1.8026270333090986,
-  "mediumCliff": 11.193641633978677,
-  "hardCliff": 24.989642391225402
+  "oS": -2.5,
+  "oH": 1.8,
+  "dS": 0.35,
+  "dM": 0.06,
+  "dH": 0.01,
+  "tc": 0,
+  "cliff": 1,
+  "epsilon": 0
 }
