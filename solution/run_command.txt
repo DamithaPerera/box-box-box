@@ -1,1 +1,1 @@
-python solution/race_simulator.py
+node solution/race_simulator.js
